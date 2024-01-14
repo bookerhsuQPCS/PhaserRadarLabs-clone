@@ -1,3 +1,5 @@
+clone for https://github.com/jonkraft/PhaserRadarLabs.git
+
 # PhaserRadarLabs
 Example Radar programs for the Phaser (CN0566)
 
